@@ -7,8 +7,7 @@ const Banner = (props) => (
                 <h1>Сайн байцгаана уу? Миний хөгжүүлж буй шинэ вэб сайтад тавтай морил</h1>
             </header>
             <div className="content">
-                <p>A responsive site template designed by HTML5 UP<br />
-                and released under the Creative Commons.</p>
+                <p>Өөрийгөө нээн хөгжүүлэх хүсэл тэмүүлэлтэй хүн бүрт нээлттэй.</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>
