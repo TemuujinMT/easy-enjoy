@@ -77,7 +77,7 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h2>Work is Easy Ez Life is Enjoy  </h2>
                             </header>
-                            <p>Өдөр тутамдаа нэг л зүйлээ давтан ажилсаар байна уу? Түүнийгээ автоматжуулаад EZ гэж хэлээд амьдралын утга учир Enjoy бай.</p>
+                            <p>Зүгээр л өөрийн мэдрэмжийг дага ажилаа хөнгөвчил амьдарлаас сайхан мэдрэмжийг ав.</p>
                             <ul className="actions">
                                 <li><Link to="/landing" className="button next">Get Started</Link></li>
                             </ul>
