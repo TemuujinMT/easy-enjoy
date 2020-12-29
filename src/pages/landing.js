@@ -34,7 +34,7 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>AI ба ируудүй</h3>
+                                <h3>AI ба ирээдүй</h3>
                             </header>
                             <p>текст</p>
                             <ul className="actions">
