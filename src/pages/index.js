@@ -75,9 +75,9 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Easy Ez Enjoy  </h2>
+                                <h2>Work is Easy Ez Life is Enjoy  </h2>
                             </header>
-                            <p>Өдөр тутамдаа нэг л зүйлээ давтаад байна уу? Түүнийгээ автоматжуулаад EZ гэж хэлээд амьдралын утга учир Enjoy байхад оршино.</p>
+                            <p>Өдөр тутамдаа нэг л зүйлээ давтан ажилсаар байна уу? Түүнийгээ автоматжуулаад EZ гэж хэлээд амьдралын утга учир Enjoy бай.</p>
                             <ul className="actions">
                                 <li><Link to="/landing" className="button next">Get Started</Link></li>
                             </ul>
