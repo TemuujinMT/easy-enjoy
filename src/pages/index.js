@@ -38,7 +38,7 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Ирээдүй гэж юу вэ?</h3>
+                                <h3>AI ба ирээдүй</h3>
                                 <p>Нийтлэл</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
