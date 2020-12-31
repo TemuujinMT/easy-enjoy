@@ -10,7 +10,7 @@ import pic10 from '../assets/images/pic10.jpg'
 const Elements = (props) => (
     <Layout>
         <Helmet>
-            <title>Elements - Forty by HTML5 UP</title>
+            <title>Easy Ez - Forty by HTML5 UP</title>
             <meta name="description" content="Elements Page" />
         </Helmet>
 
@@ -19,10 +19,10 @@ const Elements = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h1>Elements</h1>
+                        <h1>Excel Master Сургалт 2021</h1>
                     </header>
 
-                    <h2 id="content">Sample Content</h2>
+                    <h2 id="content">Сургалтын тухай</h2>
                     <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
                     <div className="grid-wrapper">
                         <div className="col-6">
