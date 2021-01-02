@@ -22,42 +22,42 @@ const Elements = (props) => (
                         <h1>Excel Master Сургалт 2021</h1>
                     </header>
 
-                    <h2 id="content">Сургалтын тухай</h2>
-                    <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+                    <h2 id="content">Сургалтын онолын мэдлэг Сургагч багш С.Эрхэмбилэг</h2>
+                    <p>Нэгдүгээр бүлэг. Excel програмын тухай үндсэн ойлголтууд</p>
                     <div className="grid-wrapper">
                         <div className="col-6">
-                            <h3>Sem turpis amet semper</h3>
-                            <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+                            <h3>Excel программын тухай</h3>
+                            <p>MS Excel программ нь хүснэгтэн мээдэлэл боловсруулах, хүснэгтэнд тооцоо хийх,
+эдийн засаг, статистикийн болон инженерийн тооцоонд хэрэглэгдэх төрөл бүрийн
+функцүүдийг ашиглан боловсруулалт хийх, хүснэгтийн өгөгдлүүдээр график,
+диаграмм байгуулах гэх мэт үйлдлийг гүйцэтгэх боломжоор хангагдсан асар том
+электрон хүснэгтүүд бүхий хэрэглээний программ юм. MS Excel программ нь 255
+багана 65636 мөр бүхий үндсэн 3 ажлын хуудастай бөгөөд эдгээр хуудсуудад
+хоорондоо хамааралгүй хүснэгтүүд үүсгэж нэг файл байдлаар хадгалах боломжтой
+байдаг.</p>
                         </div>
                         <div className="col-6">
-                            <h3>Magna odio tempus commodo</h3>
-                            <p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+                            <h3>Сургалтаар юу сурах вэ?</h3>
+                            <p>MS Excel программ тайлан тооцоо хийх хүснэгтэн мэдээлэл оруулана гэх мэт ерөнхий мэдээлэлтэй байдаг. Гэхдээ энэ нь дөнгөж анхан шатны ойлголт юм. Энэхүү сургалтаар Excel программын автоматжуулалтын техник болон дата баазтай холбох анхан шатны query бичиж сургах ахисан шатны бүхий л үйлдлийг хийж сурна. </p>
                         </div>
-                        <div className="col-4">
-                            <h3>Interdum sapien gravida</h3>
-                            <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-                        </div>
-                        <div className="col-4">
-                            <h3>Faucibus consequat lorem</h3>
-                            <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-                        </div>
-                        <div className="col-4">
-                            <h3>Accumsan montes viverra</h3>
-                            <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-                        </div>
-                    </div>
-
+                       
                     <hr className="major" />
 
-                    <h2 id="elements">Elements</h2>
+                    <h2 id="elements">text</h2>
                     <div className="grid-wrapper">
                         <div className="col-6">
 
                                 <h3>Text</h3>
-                                <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-                                This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-                                This is <u>underlined</u> and this is code: <code>for (;;)</code>.
-                                Finally, this is a <a href="#">link</a>.</p>
+                                <p>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    </p>
                                 <hr />
                                 <h2>Heading Level 2</h2>
                                 <h3>Heading Level 3</h3>
